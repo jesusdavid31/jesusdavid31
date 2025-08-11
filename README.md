@@ -25,3 +25,9 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,babel,angular,mysql,postgres,mongodb,sqlite,bootstrap,vite,linux,vscode,docker,figma,postman,git,github,gitlab" />
   </a>
 </p>
+
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+  
+![](https://github-readme-stats.vercel.app/api?username=jesusdavid31&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jesusdavid31&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdavid31&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
