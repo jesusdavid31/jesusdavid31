@@ -31,3 +31,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=jesusdavid31&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesusdavid31&theme=algolia&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdavid31&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+## 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jesusdavid31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
